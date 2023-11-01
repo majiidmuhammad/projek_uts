@@ -73,6 +73,6 @@ while i<banyak_pesanan:
         nama_pesanan.append("Tidak ada dimenu")
         harga.append("0")
         jumlah.append(qty[i]*int("0"))
-        print()
+        print() 
 
     
