@@ -339,7 +339,6 @@ print("=========================================================================
 print("Total Bayar              : Rp. {}".format(total_harga))
 pajak = total_harga * 0.1
 total_bayar = total_harga + pajak
-print("Jumlah bayar             : Rp. {}".format(total_harga))
 print("Pajak 10 %               : Rp. {}".format(pajak))
 print("Total Bayar              : Rp. {}".format(total_bayar))
 uang_bayar = int(input("Masukkan Uang Pembayaran : Rp. "))
